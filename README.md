@@ -20,5 +20,5 @@ python exercise.py
 # Navegación - Home
 Para regresar al Home del repositorio, use:
 ```
-cd /workspaces/TC10XX.*
+cd /workspaces/TC1038.*
 ```
